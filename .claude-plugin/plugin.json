@@ -1,0 +1,8 @@
+{
+  "name": "claude-usage-band",
+  "version": "0.1.0",
+  "description": "프롬프트 위 한 줄에 컨텍스트·세션·주간 사용량 게이지와 실행 중인 에이전트 수를 보여 줍니다",
+  "author": { "name": "92bulldozer" },
+  "repository": "https://github.com/92bulldozer/claude-usage-band",
+  "license": "Apache-2.0"
+}
